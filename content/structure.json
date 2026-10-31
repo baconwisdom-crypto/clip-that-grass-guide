@@ -116,7 +116,53 @@
         "gems",
         "codes"
       ],
-      "featured": []
+      "featured": [
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "upgrades",
+          "label": {
+            "en": "Upgrades: Quick Snips, Deep Pockets and Fast Feet"
+          },
+          "description": {
+            "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        },
+        {
+          "pageId": "gems",
+          "label": {
+            "en": "Gems, Spins and Achievements"
+          },
+          "description": {
+            "en": "Check the free reward routes listed by the developer and recognize the lobby controls shown in gameplay."
+          }
+        },
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Clip That Grass Codes: October 31, 2026"
+          },
+          "description": {
+            "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+          }
+        }
+      ]
     }
   ],
   "journeys": [
@@ -171,11 +217,7 @@
   "pages": {
     "home": {
       "template": "landing",
-      "focusSectionIds": [
-        "mowing-loop",
-        "choose-guide",
-        "latest"
-      ],
+      "focusSectionIds": [],
       "groupIds": [
         "lawn"
       ],
@@ -219,7 +261,7 @@
       }
     },
     "getting-started": {
-      "template": "hub",
+      "template": "procedure",
       "focusSectionIds": [
         "first-cut",
         "sell",
@@ -264,10 +306,68 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
+      },
+      "procedure": {
+        "title": {
+          "en": "Work through the steps"
+        },
+        "scope": {
+          "en": "Use the current game interface when it differs from recorded gameplay."
+        },
+        "stages": [
+          {
+            "sectionId": "first-cut",
+            "action": {
+              "en": "Clip the nearby tall grass with the equipped tool."
+            },
+            "success": {
+              "en": "The bag counter increases."
+            },
+            "fallback": {
+              "en": "Approach a patch with empty bag space and check the tool is equipped."
+            }
+          },
+          {
+            "sectionId": "sell",
+            "action": {
+              "en": "Travel to the DROP-OFF marker when the bag fills."
+            },
+            "success": {
+              "en": "The bag counter drops and cash increases."
+            },
+            "fallback": {
+              "en": "Move closer to the marked selling point and recheck the counter."
+            }
+          },
+          {
+            "sectionId": "first-purchases",
+            "action": {
+              "en": "Follow the next affordable purchase prompt to the shed."
+            },
+            "success": {
+              "en": "The tool name or bag maximum changes."
+            },
+            "fallback": {
+              "en": "Sell another load and compare the displayed price before buying."
+            }
+          },
+          {
+            "sectionId": "controls",
+            "action": {
+              "en": "Read the device controls on the current screen."
+            },
+            "success": {
+              "en": "You can switch between viewing and interacting with menus."
+            },
+            "fallback": {
+              "en": "Use the current device prompt when it differs from the PC recording."
+            }
+          }
+        ]
       }
     },
     "equipment": {
-      "template": "hub",
+      "template": "procedure",
       "focusSectionIds": [
         "shed",
         "tools",
@@ -310,10 +410,68 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
+      },
+      "procedure": {
+        "title": {
+          "en": "Work through the steps"
+        },
+        "scope": {
+          "en": "Use the current game interface when it differs from recorded gameplay."
+        },
+        "stages": [
+          {
+            "sectionId": "shed",
+            "action": {
+              "en": "Open TOOLS or BAGS in the shed."
+            },
+            "success": {
+              "en": "The selected item name and price appear."
+            },
+            "fallback": {
+              "en": "Use the tab and browsing arrows to locate the intended item."
+            }
+          },
+          {
+            "sectionId": "tools",
+            "action": {
+              "en": "Compare the next affordable tool with the equipped one."
+            },
+            "success": {
+              "en": "A purchase changes the displayed equipment."
+            },
+            "fallback": {
+              "en": "Keep cutting and selling until the displayed cost is covered."
+            }
+          },
+          {
+            "sectionId": "bags",
+            "action": {
+              "en": "Compare the next bag capacity with the current counter."
+            },
+            "success": {
+              "en": "A purchase increases the bag maximum."
+            },
+            "fallback": {
+              "en": "Check the selected bag and purchase state before leaving the shed."
+            }
+          },
+          {
+            "sectionId": "rare-grass",
+            "action": {
+              "en": "Read the golden-grass message before estimating a sale."
+            },
+            "success": {
+              "en": "You can distinguish a recorded value bonus from an ordinary clipping."
+            },
+            "fallback": {
+              "en": "Leave unverified spawn rates and other multipliers out of the estimate."
+            }
+          }
+        ]
       }
     },
     "upgrades": {
-      "template": "hub",
+      "template": "procedure",
       "focusSectionIds": [
         "upgrade-panel",
         "choose",
@@ -355,10 +513,56 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
+      },
+      "procedure": {
+        "title": {
+          "en": "Work through the steps"
+        },
+        "scope": {
+          "en": "Use the current game interface when it differs from recorded gameplay."
+        },
+        "stages": [
+          {
+            "sectionId": "upgrade-panel",
+            "action": {
+              "en": "Open UPGRADES and read its job-only warning."
+            },
+            "success": {
+              "en": "The three upgrade cards show their current and next values."
+            },
+            "fallback": {
+              "en": "Check the current panel before assuming a benefit is permanent."
+            }
+          },
+          {
+            "sectionId": "choose",
+            "action": {
+              "en": "Choose the card that addresses your current bottleneck."
+            },
+            "success": {
+              "en": "The selected upgrade effect matches cutting, capacity or travel."
+            },
+            "fallback": {
+              "en": "Compare a bag or tool purchase if it addresses the same problem."
+            }
+          },
+          {
+            "sectionId": "after-purchase",
+            "action": {
+              "en": "Check the changed counter or card after buying."
+            },
+            "success": {
+              "en": "The purchase advances a value or visibly changes the next trip."
+            },
+            "fallback": {
+              "en": "Reopen the panel and inspect cash before another purchase."
+            }
+          }
+        ]
       }
     },
     "phone": {
-      "template": "hub",
+      "template": "procedure",
       "focusSectionIds": [
         "listen",
         "found",
@@ -401,10 +605,68 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
+      },
+      "procedure": {
+        "title": {
+          "en": "Work through the steps"
+        },
+        "scope": {
+          "en": "Use the current game interface when it differs from recorded gameplay."
+        },
+        "stages": [
+          {
+            "sectionId": "listen",
+            "action": {
+              "en": "Follow the phone objective and listen for ringing."
+            },
+            "success": {
+              "en": "The objective supplies a search cue while you mow."
+            },
+            "fallback": {
+              "en": "Keep clearing a connected area; a fixed spawn coordinate is unverified."
+            }
+          },
+          {
+            "sectionId": "found",
+            "action": {
+              "en": "Check the objective after finding the phone."
+            },
+            "success": {
+              "en": "It states that the phone is back and permits more mowing or heading home."
+            },
+            "fallback": {
+              "en": "Keep using the current objective when that completion state has not appeared."
+            }
+          },
+          {
+            "sectionId": "achievement",
+            "action": {
+              "en": "Inspect Phone Home after the completed trip."
+            },
+            "success": {
+              "en": "The achievement shows its progress and current reward state."
+            },
+            "fallback": {
+              "en": "Compare the claim state and gem counter before trying again."
+            }
+          },
+          {
+            "sectionId": "map-two",
+            "action": {
+              "en": "Read Map 2 selection and requirements in the current game."
+            },
+            "success": {
+              "en": "The destination names Grandpa’s keys as its objective."
+            },
+            "fallback": {
+              "en": "Treat the route and access requirement as unverified until confirmed."
+            }
+          }
+        ]
       }
     },
     "gems": {
-      "template": "hub",
+      "template": "procedure",
       "focusSectionIds": [
         "sources",
         "wheel",
@@ -447,10 +709,68 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
+      },
+      "procedure": {
+        "title": {
+          "en": "Work through the steps"
+        },
+        "scope": {
+          "en": "Use the current game interface when it differs from recorded gameplay."
+        },
+        "stages": [
+          {
+            "sectionId": "sources",
+            "action": {
+              "en": "Check codes, achievements and wheel availability."
+            },
+            "success": {
+              "en": "You can identify which advertised reward is currently offered."
+            },
+            "fallback": {
+              "en": "Keep the unspecified community reward separate from known gem sources."
+            }
+          },
+          {
+            "sectionId": "wheel",
+            "action": {
+              "en": "Read the wheel prompt and available-spin counter."
+            },
+            "success": {
+              "en": "A spin shows its result and changes the relevant counter."
+            },
+            "fallback": {
+              "en": "Avoid a purchase control when you only intend to use a free spin."
+            }
+          },
+          {
+            "sectionId": "achievements",
+            "action": {
+              "en": "Inspect completed achievements and claim states."
+            },
+            "success": {
+              "en": "The interface shows completed progress and the offered reward."
+            },
+            "fallback": {
+              "en": "Check the current daily panel instead of relying on the old schedule."
+            }
+          },
+          {
+            "sectionId": "spending",
+            "action": {
+              "en": "Read a gem purchase description before spending."
+            },
+            "success": {
+              "en": "The current effect and cost are clear."
+            },
+            "fallback": {
+              "en": "Keep gems unspent while class effects or costs remain uncertain."
+            }
+          }
+        ]
       }
     },
     "codes": {
-      "template": "hub",
+      "template": "comparison",
       "focusSectionIds": [
         "current-codes",
         "redeem",
@@ -493,15 +813,12 @@
       },
       "scopeNote": {
         "en": "Official details and recorded gameplay checked October 31, 2026."
-      }
+      },
+      "comparisonSectionId": "current-codes"
     },
     "about": {
       "template": "hub",
-      "focusSectionIds": [
-        "identity",
-        "research",
-        "privacy"
-      ],
+      "focusSectionIds": [],
       "groupIds": [],
       "journeyIds": [],
       "destinations": [

@@ -12,7 +12,9 @@ export const siteConfig: SiteConfig = {
     enabled: true,
     templates: [
       "landing",
-      "hub"
+      "hub",
+      "procedure",
+      "comparison"
     ]
   },
   theme: {

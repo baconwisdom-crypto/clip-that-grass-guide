@@ -29,3 +29,5 @@ next-env.d.ts
 /.vercel/
 /public/deployment.json
 /app/\[locale\]/\[\[...path\]\]/page.tsx
+/node_modules-partial/
+/node_modules-interrupted/
