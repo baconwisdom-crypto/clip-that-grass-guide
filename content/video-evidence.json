@@ -1,0 +1,171 @@
+[
+  {
+    "asset": "/images/video-F93rMuTkmX4-40.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=40s",
+    "timecode": "00:00:40",
+    "text_block_id": "getting-started.first-cut",
+    "fact_ids": [
+      "getting-started-first-cut"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-40"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-100.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=100s",
+    "timecode": "00:01:40",
+    "text_block_id": "getting-started.sell",
+    "fact_ids": [
+      "getting-started-sell"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-100"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-260.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=260s",
+    "timecode": "00:04:20",
+    "text_block_id": "equipment.shed",
+    "fact_ids": [
+      "equipment-shed"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-260"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-120.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=120s",
+    "timecode": "00:02:00",
+    "text_block_id": "equipment.tools",
+    "fact_ids": [
+      "equipment-tools"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-120"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-60.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=60s",
+    "timecode": "00:01:00",
+    "text_block_id": "equipment.bags",
+    "fact_ids": [
+      "equipment-bags"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-60"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-420.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=420s",
+    "timecode": "00:07:00",
+    "text_block_id": "equipment.rare-grass",
+    "fact_ids": [
+      "equipment-rare-grass"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-420"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-360.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=360s",
+    "timecode": "00:06:00",
+    "text_block_id": "upgrades.upgrade-panel",
+    "fact_ids": [
+      "upgrades-upgrade-panel"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-360"
+    ]
+  },
+  {
+    "asset": "/images/video-F93rMuTkmX4-300.webp",
+    "sourceId": "video-F93rMuTkmX4",
+    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=300s",
+    "timecode": "00:05:00",
+    "text_block_id": "phone.listen",
+    "fact_ids": [
+      "phone-listen"
+    ],
+    "shot_ids": [
+      "shot-F93rMuTkmX4-300"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-140.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=140s",
+    "timecode": "00:02:20",
+    "text_block_id": "phone.found",
+    "fact_ids": [
+      "phone-found"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-140"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-500.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=500s",
+    "timecode": "00:08:20",
+    "text_block_id": "phone.achievement",
+    "fact_ids": [
+      "phone-achievement"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-500"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-580.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=580s",
+    "timecode": "00:09:40",
+    "text_block_id": "gems.wheel",
+    "fact_ids": [
+      "gems-wheel"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-580"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-600.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=600s",
+    "timecode": "00:10:00",
+    "text_block_id": "gems.achievements",
+    "fact_ids": [
+      "gems-achievements"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-600"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-540.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=540s",
+    "timecode": "00:09:00",
+    "text_block_id": "codes.redeem",
+    "fact_ids": [
+      "codes-redeem"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-540"
+    ]
+  }
+]

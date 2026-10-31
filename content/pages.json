@@ -1,0 +1,1405 @@
+[
+  {
+    "page_id": "home",
+    "route": "/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Clip That Grass Wiki: Codes & Mowing Guides"
+    },
+    "description": {
+      "en": "Start with nail clippers, sell your grass, upgrade your equipment and track down the missing phone in FunkyInc.’s Roblox game."
+    },
+    "pageType": "Home",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Start with nail clippers, sell your grass, upgrade your equipment and track down the missing phone in FunkyInc.’s Roblox game."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Cut until your bag fills, sell at DROP-OFF and use the cash for tools, bags and upgrades. Map 1 asks you to find Grandma’s phone; the latest update adds Grandpa’s keys in Map 2."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "mowing-loop",
+        "title": {
+          "en": "A bigger lawn starts with a tiny tool"
+        },
+        "paragraphs": [
+          {
+            "en": "Clip That Grass turns an overgrown yard into a progression loop: cut grass, carry the clippings, sell them and buy equipment that makes the next trip easier. The developer advertises 20 tools, from nail clippers to futuristic mowers."
+          },
+          {
+            "en": "The reviewed gameplay adds useful detail to that loop. A full bag stops collection, a purple UPGRADES control opens three cash upgrades, and the phone objective changes once Grandma’s phone has been found."
+          }
+        ]
+      },
+      {
+        "id": "choose-guide",
+        "title": {
+          "en": "Choose your next job"
+        },
+        "paragraphs": [
+          {
+            "en": "Follow the first-session route if you have just joined. Use the equipment guide when bags fill too quickly, the upgrades guide to compare the three upgrade categories, and the phone guide when the objective tells you to listen for ringing."
+          }
+        ],
+        "cards": [
+          {
+            "title": {
+              "en": "Getting Started: Your First Cut and Sale"
+            },
+            "summary": {
+              "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+            },
+            "pageId": "getting-started"
+          },
+          {
+            "title": {
+              "en": "Tools and Bags: Fix the Slow Part of Your Run"
+            },
+            "summary": {
+              "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+            },
+            "pageId": "equipment"
+          },
+          {
+            "title": {
+              "en": "Upgrades: Quick Snips, Deep Pockets and Fast Feet"
+            },
+            "summary": {
+              "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+            },
+            "pageId": "upgrades"
+          },
+          {
+            "title": {
+              "en": "Grandma’s Phone and the Two Map Objectives"
+            },
+            "summary": {
+              "en": "Use the objective text, ringing cue and completion state to guide your search."
+            },
+            "pageId": "phone"
+          },
+          {
+            "title": {
+              "en": "Clip That Grass Codes: October 31, 2026"
+            },
+            "summary": {
+              "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+            },
+            "pageId": "codes"
+          },
+          {
+            "title": {
+              "en": "Gems, Spins and Achievements"
+            },
+            "summary": {
+              "en": "Check the free reward routes listed by the developer and recognize the lobby controls shown in gameplay."
+            },
+            "pageId": "gems"
+          }
+        ]
+      },
+      {
+        "id": "latest",
+        "title": {
+          "en": "What changed in the latest description"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 31 check confirms two map objectives: Grandma’s phone in Map 1 and Grandpa’s keys in Map 2. The developer currently lists 500LIKES and 200LIKES for free gems, with the next code promised at 1000LIKES. We have not personally redeemed those codes."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "home-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "phone"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Overview"
+      },
+      "order": 0
+    },
+    "primaryAction": {
+      "label": {
+        "en": "Make your first cut"
+      },
+      "pageId": "getting-started"
+    }
+  },
+  {
+    "page_id": "getting-started",
+    "route": "/guides/getting-started/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Getting Started: Your First Cut and Sale"
+    },
+    "description": {
+      "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Use the starter clippers on the tall grass. When the tutorial says you can afford the next tool, follow its arrows to the TOOL SHED. Sell a full bag at DROP-OFF before cutting again."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "first-cut",
+        "title": {
+          "en": "1. Clip the nearby grass"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed PC recording starts with the starter clippers in hand and a bag counter at the left of the screen. Move toward tall grass and use the tool while watching that counter. The current objective appears across the top."
+          },
+          {
+            "en": "The early tutorial displays a message when the next item is affordable. One recorded prompt points to GRASS CLIPPERS in the TOOL SHED, with arrows showing the route. Follow your server’s prompt for its current cost and next item."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-40"
+        ]
+      },
+      {
+        "id": "sell",
+        "title": {
+          "en": "2. Take a full bag to DROP-OFF"
+        },
+        "paragraphs": [
+          {
+            "en": "When the bag reaches its limit, a red BAG FULL warning and DROP-OFF marker appear. Stop trying to collect and travel to that marker. In the footage, emptying the bag restores space for more clippings and increases the cash balance."
+          },
+          {
+            "en": "Confirm the bag counter has fallen before leaving the drop-off area. If BAG FULL remains visible, move closer to the marked collection point and check the counter again. The warning is a useful sign that the sale has not registered yet."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-100"
+        ]
+      },
+      {
+        "id": "first-purchases",
+        "title": {
+          "en": "3. Follow the early equipment prompts"
+        },
+        "paragraphs": [
+          {
+            "en": "The recording moves from a small starter bag to a Sack and later shows Hand Shears. Upgrading a tool improves the cutting side of the loop, while a larger bag lets you stay in the lawn longer between sales."
+          },
+          {
+            "en": "Use the displayed affordability prompt to avoid wandering through the entire shop. After a purchase, check the tool name or bag capacity shown at the left, return to the grass and repeat the cut, sell and upgrade cycle."
+          }
+        ]
+      },
+      {
+        "id": "controls",
+        "title": {
+          "en": "PC controls visible in the recording"
+        },
+        "paragraphs": [
+          {
+            "en": "The footage labels C as Crouch, L as Leave and Alt as Cursor. These labels describe that recorded PC interface. Touch and controller controls should be read from the current game screen."
+          },
+          {
+            "en": "Use the cursor control when you need to interact with a menu while the view is captured. Avoid Leave until you are ready to end that lawn session; the reviewed footage does not establish what unfinished progress is retained after leaving."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "getting-started-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-F93rMuTkmX4-40",
+        "src": "/images/video-F93rMuTkmX4-40.webp",
+        "alt": {
+          "en": "Tutorial affordability prompt and route arrows toward the tool shed"
+        },
+        "caption": {
+          "en": "Tutorial affordability prompt and route arrows toward the tool shed. Recorded at 00:00:40."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=40s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:00:40"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-100",
+        "src": "/images/video-sLDI9mzVYQI-100.webp",
+        "alt": {
+          "en": "BAG FULL warning with DROP-OFF marker"
+        },
+        "caption": {
+          "en": "BAG FULL warning with DROP-OFF marker. Recorded at 00:01:40."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=100s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:01:40"
+      }
+    ],
+    "relatedPageIds": [
+      "equipment",
+      "phone",
+      "codes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Start Here"
+      },
+      "order": 1
+    }
+  },
+  {
+    "page_id": "equipment",
+    "route": "/guides/tools-and-bags/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Tools and Bags: Fix the Slow Part of Your Run"
+    },
+    "description": {
+      "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Buy tools with cash from selling grass. Look under TOOLS and BAGS in the shed. A stronger tool helps clear grass; a bigger bag reduces trips to DROP-OFF."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "shed",
+        "title": {
+          "en": "Use the TOOL SHED"
+        },
+        "paragraphs": [
+          {
+            "en": "Follow the tutorial arrows to the shed when it announces an affordable tool. The shop has separate TOOLS and BAGS tabs. The reviewed bag screen uses left and right arrows to browse items and a green BUY control for the selected item."
+          },
+          {
+            "en": "Read the selected item’s name and capacity before purchasing. The recording shows a Trash Can bag with an 800 capacity and a $2,800 button, but those are recorded values. Your server’s displayed price is the one to use."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-260"
+        ]
+      },
+      {
+        "id": "tools",
+        "title": {
+          "en": "When to buy a better tool"
+        },
+        "paragraphs": [
+          {
+            "en": "If the bag has plenty of room and cutting feels slow, inspect the next tool you can afford. Recorded equipment includes starter clippers, Hand Shears, a Hedge Trimmer and an Electric Mower. The official description advertises 20 tools in total."
+          },
+          {
+            "en": "A sensible checkpoint is a short cutting trip after the purchase: confirm the equipped tool changed, cut a patch and compare how long it takes to fill the current bag. A complete current tool-price ladder has not been verified, so this guide avoids a fabricated ranking."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-120"
+        ]
+      },
+      {
+        "id": "bags",
+        "title": {
+          "en": "When to buy a bigger bag"
+        },
+        "paragraphs": [
+          {
+            "en": "If the red full-bag warning keeps interrupting your cutting, compare the next bag with your current capacity. The early recording explicitly tells the player to save for a bigger Sack."
+          },
+          {
+            "en": "Sell first, enter BAGS, compare the capacity with the counter you already have and purchase when affordable. Check the new capacity after leaving the shop. Bigger bags and the Deep Pockets upgrade both address carrying space, so compare the visible cost of the next improvement."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-60"
+        ]
+      },
+      {
+        "id": "rare-grass",
+        "title": {
+          "en": "Golden grass and sale value"
+        },
+        "paragraphs": [
+          {
+            "en": "A visible GOLDEN BLADE message in the reviewed footage says the grass is worth 25x at the drop-off. Treat that as an observation from the recording. It explains why the sale value can vary between apparently similar trips."
+          },
+          {
+            "en": "The recording does not establish current golden-grass spawn rates. A guide found during research also claims a rainbow multiplier, but that figure is left out here until a matching game screen or official source confirms it."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-420"
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "equipment-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-F93rMuTkmX4-260",
+        "src": "/images/video-F93rMuTkmX4-260.webp",
+        "alt": {
+          "en": "Bags tab with selected Trash Can and capacity panel"
+        },
+        "caption": {
+          "en": "Bags tab with selected Trash Can and capacity panel. Recorded at 00:04:20."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=260s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:04:20"
+      },
+      {
+        "id": "shot-F93rMuTkmX4-120",
+        "src": "/images/video-F93rMuTkmX4-120.webp",
+        "alt": {
+          "en": "Hand Shears equipped after the purchase"
+        },
+        "caption": {
+          "en": "Hand Shears equipped after the purchase. Recorded at 00:02:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=120s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:02:00"
+      },
+      {
+        "id": "shot-F93rMuTkmX4-60",
+        "src": "/images/video-F93rMuTkmX4-60.webp",
+        "alt": {
+          "en": "Tutorial prompt to save for the bigger Sack bag"
+        },
+        "caption": {
+          "en": "Tutorial prompt to save for the bigger Sack bag. Recorded at 00:01:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=60s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:01:00"
+      },
+      {
+        "id": "shot-F93rMuTkmX4-420",
+        "src": "/images/video-F93rMuTkmX4-420.webp",
+        "alt": {
+          "en": "Golden blade value message in recorded gameplay"
+        },
+        "caption": {
+          "en": "Golden blade value message in recorded gameplay. Recorded at 00:07:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=420s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:07:00"
+      }
+    ],
+    "relatedPageIds": [
+      "getting-started",
+      "phone",
+      "codes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Tools & Bags"
+      },
+      "order": 2
+    }
+  },
+  {
+    "page_id": "upgrades",
+    "route": "/guides/upgrades/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Upgrades: Quick Snips, Deep Pockets and Fast Feet"
+    },
+    "description": {
+      "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Open the purple UPGRADES panel. Quick Snips affects cutting speed, Deep Pockets affects bag space and Fast Feet affects movement speed. Choose the next improvement for the part of the loop slowing you down."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "upgrade-panel",
+        "title": {
+          "en": "Read the current and next values"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed panel presents three upgrade cards with their current and next multipliers, plus cash prices below. Use those values in your server when comparing a purchase. The footage contains later upgrade levels, so its prices are examples of a run in progress."
+          },
+          {
+            "en": "Quick Snips is described as snipping faster, Deep Pockets makes the bag hold more grass, and Fast Feet makes walking quicker. Cash and gems appear separately in this interface; the three card purchase buttons in the reviewed screen show cash."
+          },
+          {
+            "en": "The panel explicitly labels these upgrades “THIS JOB ONLY” and says lobby upgrades last forever. Treat the three cards as run-specific spending. Read the lobby upgrade descriptions separately before using a permanent currency."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-360"
+        ]
+      },
+      {
+        "id": "choose",
+        "title": {
+          "en": "Pick an upgrade by the interruption"
+        },
+        "paragraphs": [
+          {
+            "en": "Choose Quick Snips when you spend most of a trip slowly cutting a patch. Compare Deep Pockets with a bag purchase when you fill up too quickly. Consider Fast Feet when travel between the lawn, shed and DROP-OFF is taking too much of your time."
+          },
+          {
+            "en": "This is a practical decision rule derived from the visible effects. It does not establish a mathematically optimal purchase order. Check one improvement at a time so you can see whether it solves your current problem."
+          }
+        ]
+      },
+      {
+        "id": "after-purchase",
+        "title": {
+          "en": "Check the result before spending again"
+        },
+        "paragraphs": [
+          {
+            "en": "After buying a capacity improvement, compare the bag counter’s maximum. After a cutting improvement, make a short pass through a familiar patch. After a movement improvement, compare the return trip to DROP-OFF."
+          },
+          {
+            "en": "If the purchase does not appear to register, check whether the displayed cash changed and whether the card advanced to its next value. Reopen the panel before making another purchase. The exact handling of failed purchases is not established in the reviewed footage."
+          },
+          {
+            "en": "Before heading home, remember the recorded job-only warning. This guide does not promise that Quick Snips, Deep Pockets or Fast Feet levels will carry into the next job."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "upgrades-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-F93rMuTkmX4-360",
+        "src": "/images/video-F93rMuTkmX4-360.webp",
+        "alt": {
+          "en": "Quick Snips Deep Pockets and Fast Feet upgrade cards"
+        },
+        "caption": {
+          "en": "Quick Snips Deep Pockets and Fast Feet upgrade cards. Recorded at 00:06:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=360s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:06:00"
+      }
+    ],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "phone"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Upgrades"
+      },
+      "order": 3
+    }
+  },
+  {
+    "page_id": "phone",
+    "route": "/guides/grandmas-phone/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Grandma’s Phone and the Two Map Objectives"
+    },
+    "description": {
+      "en": "Use the objective text, ringing cue and completion state to guide your search."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Use the objective text, ringing cue and completion state to guide your search."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "For Map 1, mow the lawn and listen for Grandma’s phone ringing. Follow the current objective and keep clearing grass. Map 2 now asks for Grandpa’s keys; its route and unlock requirement still need direct verification."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "listen",
+        "title": {
+          "en": "Read the objective and listen"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed early gameplay displays “Mow the lawn and listen for Grandma’s phone.” Later footage changes this to a direct search instruction with a ringing cue. Keep the game audio audible while you clear the lawn."
+          },
+          {
+            "en": "Clear a connected area you can search again instead of relying on a claimed universal coordinate. The footage reviewed for this guide does not establish a fixed phone spawn location or a trigger that guarantees the phone appears at a particular timer value."
+          }
+        ],
+        "imageIds": [
+          "shot-F93rMuTkmX4-300"
+        ]
+      },
+      {
+        "id": "found",
+        "title": {
+          "en": "Recognize the found-phone state"
+        },
+        "paragraphs": [
+          {
+            "en": "The later recording displays “Grandma’s phone is back! Keep mowing or head home.” This is the useful confirmation that the phone objective has advanced. It also shows the lawn can still be mowed after that state."
+          },
+          {
+            "en": "When you are finished, use the game’s exit flow and check the results or lobby. The recording returns through a Heading home screen and then shows the Phone Home achievement, described as bringing Grandma’s phone back."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-140"
+        ]
+      },
+      {
+        "id": "achievement",
+        "title": {
+          "en": "Check the achievement reward"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed achievements screen shows Phone Home completed at 1/1 and a +5 GEMS reward effect. Open the achievement interface after the completed trip and check whether its current reward is available."
+          },
+          {
+            "en": "A recorded button is not proof that a reward has already been claimed on your account. Read the current reward state and your gem counter. Exact current payout and repeatability need confirmation in the live interface."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-500"
+        ]
+      },
+      {
+        "id": "map-two",
+        "title": {
+          "en": "Map 2: Grandpa’s keys"
+        },
+        "paragraphs": [
+          {
+            "en": "The official October 31 description names Grandpa’s lost keys as the Map 2 objective. That establishes the new objective and map identity. It does not specify a key coordinate, a map unlock price or which equipment carries over."
+          },
+          {
+            "en": "Check the current map selection and entry requirements in the game. This guide will add a route when a matching Map 2 recording is verified; the Map 1 phone screenshots below should not be used as a key-location map."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "phone-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-F93rMuTkmX4-300",
+        "src": "/images/video-F93rMuTkmX4-300.webp",
+        "alt": {
+          "en": "Phone search objective with a ringing cue"
+        },
+        "caption": {
+          "en": "Phone search objective with a ringing cue. Recorded at 00:05:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-F93rMuTkmX4",
+        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=300s",
+        "videoId": "F93rMuTkmX4",
+        "timecode": "00:05:00"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-140",
+        "src": "/images/video-sLDI9mzVYQI-140.webp",
+        "alt": {
+          "en": "Completed phone objective permits more mowing or heading home"
+        },
+        "caption": {
+          "en": "Completed phone objective permits more mowing or heading home. Recorded at 00:02:20."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=140s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:02:20"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-500",
+        "src": "/images/video-sLDI9mzVYQI-500.webp",
+        "alt": {
+          "en": "Phone Home achievement completed at one of one"
+        },
+        "caption": {
+          "en": "Phone Home achievement completed at one of one. Recorded at 00:08:20."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=500s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:08:20"
+      }
+    ],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "codes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Phone & Maps"
+      },
+      "order": 4
+    }
+  },
+  {
+    "page_id": "gems",
+    "route": "/guides/gems-and-rewards/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Gems, Spins and Achievements"
+    },
+    "description": {
+      "en": "Check the free reward routes listed by the developer and recognize the lobby controls shown in gameplay."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Check the free reward routes listed by the developer and recognize the lobby controls shown in gameplay."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The official description lists gems from codes, the prize wheel and achievements. The reviewed lobby has a prize wheel and achievements menu. Check reward availability before you spend gems."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "sources",
+        "title": {
+          "en": "Where the free gems come from"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer advertises free-gem codes, gems from achievements and gems or rare rewards on the prize wheel. Roblox Premium players are advertised to receive 20% more gems and one extra free spin each day."
+          },
+          {
+            "en": "Joining the FunkyInc. community is also advertised to grant a free reward, but the description does not identify its contents. Keep that reward separate from the specific gem sources above."
+          }
+        ]
+      },
+      {
+        "id": "wheel",
+        "title": {
+          "en": "Check the wheel before buying spins"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed lobby recording shows the player beside a wheel with an E Spin prompt and a result of +15 GEMS. It illustrates a possible recorded result. The footage does not establish the current probability of any wheel reward."
+          },
+          {
+            "en": "Read the available-spin counter and any cost shown in your current interface. Use a free spin when available; a control that offers more spins can lead to a separate purchase. The guide does not require buying spins."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-580"
+        ]
+      },
+      {
+        "id": "achievements",
+        "title": {
+          "en": "Collect completed achievements"
+        },
+        "paragraphs": [
+          {
+            "en": "Open the achievements interface and inspect completed objectives. The Phone Home example displays a completed 1/1 objective after the phone run. A separate daily-rewards panel also appears in the recorded lobby."
+          },
+          {
+            "en": "Review the current claim state and reward before using a control. The footage does not establish today’s entire daily reward schedule, so an old screenshot should not be treated as a guaranteed daily payout table."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-600"
+        ]
+      },
+      {
+        "id": "spending",
+        "title": {
+          "en": "Decide before spending gems"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed lobby includes a CLASSES sign, and gems have their own counter. A complete verified class list, class costs and current gem-shop effects are still missing."
+          },
+          {
+            "en": "Keep enough gems unspent while you read the actual option descriptions. This guide does not name a best class or claim an upgrade requires gems without a matching source. Cash purchases for tools, bags and the three observed upgrades are covered separately."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "gems-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-sLDI9mzVYQI-580",
+        "src": "/images/video-sLDI9mzVYQI-580.webp",
+        "alt": {
+          "en": "Prize wheel result showing fifteen gems in the recording"
+        },
+        "caption": {
+          "en": "Prize wheel result showing fifteen gems in the recording. Recorded at 00:09:40."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=580s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:09:40"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-600",
+        "src": "/images/video-sLDI9mzVYQI-600.webp",
+        "alt": {
+          "en": "Daily rewards panel in the lobby"
+        },
+        "caption": {
+          "en": "Daily rewards panel in the lobby. Recorded at 00:10:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=600s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:10:00"
+      }
+    ],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "phone"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Rewards"
+      },
+      "order": 5
+    }
+  },
+  {
+    "page_id": "codes",
+    "route": "/codes/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "Clip That Grass Codes: October 31, 2026"
+    },
+    "description": {
+      "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "500LIKES and 200LIKES are currently listed by the developer for free gems. Redemption has not been tested by this site. The next code is advertised at 1000LIKES."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "current-codes",
+        "title": {
+          "en": "Currently listed by the developer"
+        },
+        "paragraphs": [
+          {
+            "en": "The official game description checked October 31, 2026 lists the following entries. The gem amount and expiry date are unspecified. Copy the complete uppercase code and check the in-game response."
+          }
+        ],
+        "table": {
+          "columns": [
+            {
+              "en": "Code"
+            },
+            {
+              "en": "Advertised reward"
+            },
+            {
+              "en": "Status"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "500LIKES"
+              },
+              {
+                "en": "Free gems"
+              },
+              {
+                "en": "Officially listed; redemption untested"
+              }
+            ],
+            [
+              {
+                "en": "200LIKES"
+              },
+              {
+                "en": "Free gems"
+              },
+              {
+                "en": "Officially listed; redemption untested"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "id": "redeem",
+        "title": {
+          "en": "Find the code control in the lobby"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed late-game lobby shows a CODES label along the top and a FREE CODES sign near the reward area. Use the current game’s code control to open its entry interface, then enter one full code and check the response."
+          },
+          {
+            "en": "The reviewed frames do not reveal the open code textbox or the name of its submit button. Follow the live interface for that final control. We avoid claiming a Settings, bird or Gift button that has not been verified for this game."
+          }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-540"
+        ]
+      },
+      {
+        "id": "older",
+        "title": {
+          "en": "Older codes need a fresh check"
+        },
+        "paragraphs": [
+          {
+            "en": "English pages collected during research list WELCOME, 50LIKES, UPDATE, 100LIKES and 300LIKES from earlier descriptions. They are absent from the current official list. Their expiry and redemption status remain unknown."
+          },
+          {
+            "en": "Do not infer that every older entry is expired solely because it is missing from the description. Likewise, an older guide’s active label cannot prove the code still redeems today."
+          }
+        ]
+      },
+      {
+        "id": "errors",
+        "title": {
+          "en": "When a code does not redeem"
+        },
+        "paragraphs": [
+          {
+            "en": "Remove leading or trailing spaces, check the complete spelling and confirm you joined Clip That Grass by FunkyInc. If a response says the reward was already claimed, inspect your balance before trying again."
+          },
+          {
+            "en": "Record the actual response for an unrecognized or rejected code. The site has not verified the game’s exact error wording, account restrictions or whether any listed code requires community membership. The current official text presents joining the community as a separate reward."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "codes-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "shot-sLDI9mzVYQI-540",
+        "src": "/images/video-sLDI9mzVYQI-540.webp",
+        "alt": {
+          "en": "Lobby CODES label and free codes sign"
+        },
+        "caption": {
+          "en": "Lobby CODES label and free codes sign. Recorded at 00:09:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=540s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:09:00"
+      }
+    ],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "phone"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Codes"
+      },
+      "order": 6
+    }
+  },
+  {
+    "page_id": "about",
+    "route": "/about/",
+    "section": "Lawn Handbook",
+    "title": {
+      "en": "About This Clip That Grass Guide"
+    },
+    "description": {
+      "en": "Game identity, research scope and privacy details for this independent fan guide."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Updated October 31, 2026"
+    },
+    "intro": {
+      "en": "Game identity, research scope and privacy details for this independent fan guide."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "This guide covers Clip That Grass by FunkyInc., Universe 10769778263 and Place 123004964392167. It uses official descriptions and reviewed community gameplay."
+      },
+      "status": {
+        "en": "Official details and recorded gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "identity",
+        "title": {
+          "en": "The exact game covered here"
+        },
+        "paragraphs": [
+          {
+            "en": "The supplied ID 10769778263 resolves as a Roblox Universe ID. Its root Place is 123004964392167. The developer is FunkyInc., Roblox community 3794853. This identity was checked against Roblox’s public API and the game page on October 31, 2026."
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "title": {
+          "en": "How the guides are checked"
+        },
+        "paragraphs": [
+          {
+            "en": "Official descriptions support the current maps, listed codes and advertised features. Recorded gameplay supports the visible controls and screenshots. Community recordings show earlier versions and do not represent this site’s own playtesting."
+          },
+          {
+            "en": "Open gaps include the full current equipment price ladder, exact phone spawn rules, Map 2 access and key route, current class effects and live code-redemption results. These gaps are recorded internally and the relevant guides state the limits beside the topic."
+          }
+        ]
+      },
+      {
+        "id": "privacy",
+        "title": {
+          "en": "Privacy and game support"
+        },
+        "paragraphs": [
+          {
+            "en": "This site has no player login, comment form or account system. No advertising is enabled. Analytics status is updated when the production measurement setup is verified."
+          },
+          {
+            "en": "For in-game support, use FunkyInc.’s official Roblox community or the game’s Roblox page. This independent guide cannot restore purchases, gems or progress."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Screenshots show community gameplay. Prices, menus and objectives may change after updates. Latest official description checked October 31, 2026."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "about-official",
+        "statement": {
+          "en": "Latest game identity and advertised features checked against the official Roblox description."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked October 31, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "getting-started",
+      "equipment",
+      "phone"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "About"
+      },
+      "order": 7
+    }
+  }
+]

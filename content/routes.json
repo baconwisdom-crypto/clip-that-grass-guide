@@ -1,0 +1,50 @@
+[
+  {
+    "route": "/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/getting-started/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/tools-and-bags/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/upgrades/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/grandmas-phone/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/gems-and-rewards/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/codes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/about/",
+    "locales": [
+      "en"
+    ]
+  }
+]

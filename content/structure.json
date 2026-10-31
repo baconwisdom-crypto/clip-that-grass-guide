@@ -1,0 +1,544 @@
+{
+  "version": 1,
+  "ui": {
+    "topics": {
+      "en": "Guide topics"
+    },
+    "chooseTask": {
+      "en": "What do you want to do?"
+    },
+    "browseTopics": {
+      "en": "Browse by task"
+    },
+    "pathways": {
+      "en": "Suggested reading routes"
+    },
+    "openTopic": {
+      "en": "Open topic"
+    },
+    "allGuides": {
+      "en": "All guides in this topic"
+    },
+    "onPage": {
+      "en": "In this guide"
+    },
+    "nextTask": {
+      "en": "Your next step"
+    },
+    "support": {
+      "en": "Supporting guidance"
+    },
+    "evidence": {
+      "en": "Scope and sources"
+    },
+    "faq": {
+      "en": "Questions and answers"
+    },
+    "primary": {
+      "en": "Quick answer"
+    },
+    "image": {
+      "en": "Reference context"
+    },
+    "catalog": {
+      "en": "Name reference"
+    },
+    "comparison": {
+      "en": "Compare before changing"
+    },
+    "procedure": {
+      "en": "Work through the steps"
+    },
+    "troubleshooting": {
+      "en": "Choose the symptom"
+    },
+    "check": {
+      "en": "Check first"
+    },
+    "action": {
+      "en": "What to do"
+    },
+    "success": {
+      "en": "Success check"
+    },
+    "fallback": {
+      "en": "If it remains unclear"
+    },
+    "background": {
+      "en": "Read the supporting evidence"
+    },
+    "continueLabel": {
+      "en": "Continue with"
+    },
+    "startLabel": {
+      "en": "Start here"
+    },
+    "sourceScope": {
+      "en": "Source scope"
+    },
+    "overview": {
+      "en": "Overview"
+    },
+    "related": {
+      "en": "Related tasks"
+    },
+    "guidesCount": {
+      "en": "guides",
+      "de": "Anleitungen"
+    },
+    "recordsCount": {
+      "en": "records",
+      "de": "Einträge"
+    },
+    "sectionsCount": {
+      "en": "sections",
+      "de": "Abschnitte"
+    },
+    "expandBackground": {
+      "en": "Read the full background",
+      "de": "Hintergrund lesen"
+    }
+  },
+  "groups": [
+    {
+      "id": "lawn",
+      "title": {
+        "en": "Clear your first lawn"
+      },
+      "summary": {
+        "en": "Cut, sell, improve your equipment and finish the objective."
+      },
+      "hubPageId": "getting-started",
+      "pageIds": [
+        "equipment",
+        "upgrades",
+        "phone",
+        "gems",
+        "codes"
+      ],
+      "featured": []
+    }
+  ],
+  "journeys": [
+    {
+      "id": "first-session",
+      "title": {
+        "en": "Your first session"
+      },
+      "description": {
+        "en": "A practical route from the starter clippers to the phone search."
+      },
+      "stops": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "upgrades",
+          "label": {
+            "en": "Upgrades: Quick Snips, Deep Pockets and Fast Feet"
+          },
+          "description": {
+            "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ]
+    }
+  ],
+  "pages": {
+    "home": {
+      "template": "landing",
+      "focusSectionIds": [
+        "mowing-loop",
+        "choose-guide",
+        "latest"
+      ],
+      "groupIds": [
+        "lawn"
+      ],
+      "journeyIds": [
+        "first-session"
+      ],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "getting-started": {
+      "template": "hub",
+      "focusSectionIds": [
+        "first-cut",
+        "sell",
+        "first-purchases",
+        "controls"
+      ],
+      "groupIds": [
+        "lawn"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        },
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Clip That Grass Codes: October 31, 2026"
+          },
+          "description": {
+            "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "equipment": {
+      "template": "hub",
+      "focusSectionIds": [
+        "shed",
+        "tools",
+        "bags",
+        "rare-grass"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        },
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Clip That Grass Codes: October 31, 2026"
+          },
+          "description": {
+            "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "upgrades": {
+      "template": "hub",
+      "focusSectionIds": [
+        "upgrade-panel",
+        "choose",
+        "after-purchase"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "phone": {
+      "template": "hub",
+      "focusSectionIds": [
+        "listen",
+        "found",
+        "achievement",
+        "map-two"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Clip That Grass Codes: October 31, 2026"
+          },
+          "description": {
+            "en": "The latest developer-listed free-gem codes, with older entries kept separate from today’s official list."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "gems": {
+      "template": "hub",
+      "focusSectionIds": [
+        "sources",
+        "wheel",
+        "achievements",
+        "spending"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "codes": {
+      "template": "hub",
+      "focusSectionIds": [
+        "current-codes",
+        "redeem",
+        "older",
+        "errors"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    },
+    "about": {
+      "template": "hub",
+      "focusSectionIds": [
+        "identity",
+        "research",
+        "privacy"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "getting-started",
+          "label": {
+            "en": "Getting Started: Your First Cut and Sale"
+          },
+          "description": {
+            "en": "Follow the first upgrade prompts, empty a full bag and keep the lawn-clearing loop moving."
+          }
+        },
+        {
+          "pageId": "equipment",
+          "label": {
+            "en": "Tools and Bags: Fix the Slow Part of Your Run"
+          },
+          "description": {
+            "en": "Choose equipment by the problem you are facing: slow cutting or frequent full-bag trips."
+          }
+        },
+        {
+          "pageId": "phone",
+          "label": {
+            "en": "Grandma’s Phone and the Two Map Objectives"
+          },
+          "description": {
+            "en": "Use the objective text, ringing cue and completion state to guide your search."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official details and recorded gameplay checked October 31, 2026."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "official-game",
+    "name": "Clip That Grass on Roblox",
+    "publisher": "FunkyInc.",
+    "type": "Official game description",
+    "url": "https://www.roblox.com/games/123004964392167/Clip-That-Grass",
+    "lastChecked": "2026-10-31",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Universe 10769778263; developer group 3794853. Current maps and code list."
+    }
+  },
+  {
+    "id": "official-community",
+    "name": "FunkyInc. Roblox community",
+    "publisher": "FunkyInc.",
+    "type": "Official community",
+    "url": "https://www.roblox.com/communities/3794853/FunkyInc",
+    "lastChecked": "2026-10-31",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Developer identity resolved from the official game API."
+    }
+  },
+  {
+    "id": "video-F93rMuTkmX4",
+    "name": "Roblox Clip That Grass!",
+    "publisher": "erkrbx",
+    "type": "Community gameplay",
+    "url": "https://www.youtube.com/watch?v=F93rMuTkmX4",
+    "lastChecked": "2026-10-31",
+    "status": "Reviewed recording",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Screen-visible controls and objectives. Earlier recorded version; no personal playtesting claim."
+    }
+  },
+  {
+    "id": "video-sLDI9mzVYQI",
+    "name": "💎 PART 3: THE FINAL ENDING! I Unlocked INSANE Rewards! 😱 | Roblox Clip That Grass",
+    "publisher": "TJAKRIUS",
+    "type": "Community gameplay",
+    "url": "https://www.youtube.com/watch?v=sLDI9mzVYQI",
+    "lastChecked": "2026-10-31",
+    "status": "Reviewed recording",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Screen-visible controls and objectives. Earlier recorded version; no personal playtesting claim."
+    }
+  }
+]
