@@ -26,32 +26,6 @@
     ]
   },
   {
-    "asset": "/images/video-F93rMuTkmX4-260.webp",
-    "sourceId": "video-F93rMuTkmX4",
-    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=260s",
-    "timecode": "00:04:20",
-    "text_block_id": "equipment.shed",
-    "fact_ids": [
-      "equipment-shed"
-    ],
-    "shot_ids": [
-      "shot-F93rMuTkmX4-260"
-    ]
-  },
-  {
-    "asset": "/images/video-F93rMuTkmX4-120.webp",
-    "sourceId": "video-F93rMuTkmX4",
-    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=120s",
-    "timecode": "00:02:00",
-    "text_block_id": "equipment.tools",
-    "fact_ids": [
-      "equipment-tools"
-    ],
-    "shot_ids": [
-      "shot-F93rMuTkmX4-120"
-    ]
-  },
-  {
     "asset": "/images/video-F93rMuTkmX4-60.webp",
     "sourceId": "video-F93rMuTkmX4",
     "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=60s",
@@ -88,19 +62,6 @@
     ],
     "shot_ids": [
       "shot-F93rMuTkmX4-360"
-    ]
-  },
-  {
-    "asset": "/images/video-F93rMuTkmX4-300.webp",
-    "sourceId": "video-F93rMuTkmX4",
-    "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=300s",
-    "timecode": "00:05:00",
-    "text_block_id": "phone.listen",
-    "fact_ids": [
-      "phone-listen"
-    ],
-    "shot_ids": [
-      "shot-F93rMuTkmX4-300"
     ]
   },
   {
@@ -166,6 +127,110 @@
     ],
     "shot_ids": [
       "shot-sLDI9mzVYQI-540"
+    ]
+  },
+  {
+    "asset": "/images/video-826Tc84tos0-538.webp",
+    "sourceId": "video-826Tc84tos0",
+    "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=538s",
+    "timecode": "00:08:58",
+    "text_block_id": "equipment.shed",
+    "fact_ids": [
+      "round2-equipment-shed-538"
+    ],
+    "shot_ids": [
+      "shot-826Tc84tos0-538"
+    ]
+  },
+  {
+    "asset": "/images/video-826Tc84tos0-270.webp",
+    "sourceId": "video-826Tc84tos0",
+    "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=270s",
+    "timecode": "00:04:30",
+    "text_block_id": "equipment.tools",
+    "fact_ids": [
+      "round2-equipment-tools-270"
+    ],
+    "shot_ids": [
+      "shot-826Tc84tos0-270"
+    ]
+  },
+  {
+    "asset": "/images/video-826Tc84tos0-540.webp",
+    "sourceId": "video-826Tc84tos0",
+    "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=540s",
+    "timecode": "00:09:00",
+    "text_block_id": "equipment.bags",
+    "fact_ids": [
+      "round2-equipment-bags-540"
+    ],
+    "shot_ids": [
+      "shot-826Tc84tos0-540"
+    ]
+  },
+  {
+    "asset": "/images/video-826Tc84tos0-335.webp",
+    "sourceId": "video-826Tc84tos0",
+    "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=335s",
+    "timecode": "00:05:35",
+    "text_block_id": "phone.listen",
+    "fact_ids": [
+      "round2-phone-listen-335"
+    ],
+    "shot_ids": [
+      "shot-826Tc84tos0-335"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-530.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=530s",
+    "timecode": "00:08:50",
+    "text_block_id": "upgrades.choose",
+    "fact_ids": [
+      "round2-upgrades-choose-530"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-530"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-535.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=535s",
+    "timecode": "00:08:55",
+    "text_block_id": "upgrades.after-purchase",
+    "fact_ids": [
+      "round2-upgrades-after-purchase-535"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-535"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-550.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=550s",
+    "timecode": "00:09:10",
+    "text_block_id": "codes.redeem",
+    "fact_ids": [
+      "round2-codes-redeem-550"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-550"
+    ]
+  },
+  {
+    "asset": "/images/video-sLDI9mzVYQI-545.webp",
+    "sourceId": "video-sLDI9mzVYQI",
+    "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=545s",
+    "timecode": "00:09:05",
+    "text_block_id": "gems.spending",
+    "fact_ids": [
+      "round2-gems-spending-545"
+    ],
+    "shot_ids": [
+      "shot-sLDI9mzVYQI-545"
     ]
   }
 ]

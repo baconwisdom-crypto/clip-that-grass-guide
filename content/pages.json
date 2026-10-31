@@ -395,11 +395,11 @@
             "en": "Follow the tutorial arrows to the shed when it announces an affordable tool. The shop has separate TOOLS and BAGS tabs. The reviewed bag screen uses left and right arrows to browse items and a green BUY control for the selected item."
           },
           {
-            "en": "Read the selected item’s name and capacity before purchasing. The recording shows a Trash Can bag with an 800 capacity and a $2,800 button, but those are recorded values. Your server’s displayed price is the one to use."
+            "en": "Read both capacities before purchasing. In the newer recording, the selected Trash Can holds 1,280 blades, the current bag holds 480, and the buy control shows $2,800. Capacity can reflect upgrades already bought in that run. Use the values displayed in your server."
           }
         ],
         "imageIds": [
-          "shot-F93rMuTkmX4-260"
+          "shot-826Tc84tos0-538"
         ]
       },
       {
@@ -413,10 +413,13 @@
           },
           {
             "en": "A sensible checkpoint is a short cutting trip after the purchase: confirm the equipped tool changed, cut a patch and compare how long it takes to fill the current bag. A complete current tool-price ladder has not been verified, so this guide avoids a fabricated ranking."
+          },
+          {
+            "en": "At the tool display, inspect the card for the tool you are facing. The recorded Sickle card shows Bite, Speed and Reach bars, describes a low sweeping swing, and offers an E purchase prompt at $450. The bars are a visible comparison aid; the recording does not supply exact numerical stats for every tool."
           }
         ],
         "imageIds": [
-          "shot-F93rMuTkmX4-120"
+          "shot-826Tc84tos0-270"
         ]
       },
       {
@@ -430,10 +433,14 @@
           },
           {
             "en": "Sell first, enter BAGS, compare the capacity with the counter you already have and purchase when affordable. Check the new capacity after leaving the shop. Bigger bags and the Deep Pockets upgrade both address carrying space, so compare the visible cost of the next improvement."
+          },
+          {
+            "en": "After buying, compare the HUD maximum with the shop preview. In one recorded run it changes from 480 to 1,280 after the Trash Can purchase. The celebration calls the bag an 800-blade item, while the notification and HUD show 1,280. Deep Pockets was at x1.6 in that run, so the effective limit can differ from the item’s base description. This example is not a fixed capacity promise for every player."
           }
         ],
         "imageIds": [
-          "shot-F93rMuTkmX4-60"
+          "shot-F93rMuTkmX4-60",
+          "shot-826Tc84tos0-540"
         ]
       },
       {
@@ -492,36 +499,6 @@
     },
     "images": [
       {
-        "id": "shot-F93rMuTkmX4-260",
-        "src": "/images/video-F93rMuTkmX4-260.webp",
-        "alt": {
-          "en": "Bags tab with selected Trash Can and capacity panel"
-        },
-        "caption": {
-          "en": "Bags tab with selected Trash Can and capacity panel. Recorded at 00:04:20."
-        },
-        "ratio": "video",
-        "sourceId": "video-F93rMuTkmX4",
-        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=260s",
-        "videoId": "F93rMuTkmX4",
-        "timecode": "00:04:20"
-      },
-      {
-        "id": "shot-F93rMuTkmX4-120",
-        "src": "/images/video-F93rMuTkmX4-120.webp",
-        "alt": {
-          "en": "Hand Shears equipped after the purchase"
-        },
-        "caption": {
-          "en": "Hand Shears equipped after the purchase. Recorded at 00:02:00."
-        },
-        "ratio": "video",
-        "sourceId": "video-F93rMuTkmX4",
-        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=120s",
-        "videoId": "F93rMuTkmX4",
-        "timecode": "00:02:00"
-      },
-      {
         "id": "shot-F93rMuTkmX4-60",
         "src": "/images/video-F93rMuTkmX4-60.webp",
         "alt": {
@@ -550,6 +527,51 @@
         "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=420s",
         "videoId": "F93rMuTkmX4",
         "timecode": "00:07:00"
+      },
+      {
+        "id": "shot-826Tc84tos0-538",
+        "src": "/images/video-826Tc84tos0-538.webp",
+        "alt": {
+          "en": "Trash Can shop panel comparing 1,280 capacity with the current 480-capacity bag"
+        },
+        "caption": {
+          "en": "Trash Can shop panel comparing 1,280 capacity with the current 480-capacity bag. Recorded at 00:08:58."
+        },
+        "ratio": "video",
+        "sourceId": "video-826Tc84tos0",
+        "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=538s",
+        "videoId": "826Tc84tos0",
+        "timecode": "00:08:58"
+      },
+      {
+        "id": "shot-826Tc84tos0-270",
+        "src": "/images/video-826Tc84tos0-270.webp",
+        "alt": {
+          "en": "Sickle tool card with Bite, Speed, Reach and a $450 purchase prompt"
+        },
+        "caption": {
+          "en": "Sickle tool card with Bite, Speed, Reach and a $450 purchase prompt. Recorded at 00:04:30."
+        },
+        "ratio": "video",
+        "sourceId": "video-826Tc84tos0",
+        "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=270s",
+        "videoId": "826Tc84tos0",
+        "timecode": "00:04:30"
+      },
+      {
+        "id": "shot-826Tc84tos0-540",
+        "src": "/images/video-826Tc84tos0-540.webp",
+        "alt": {
+          "en": "Trash Can purchase confirmation with a 1,280 bag counter"
+        },
+        "caption": {
+          "en": "Trash Can purchase confirmation with a 1,280 bag counter. Recorded at 00:09:00."
+        },
+        "ratio": "video",
+        "sourceId": "video-826Tc84tos0",
+        "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=540s",
+        "videoId": "826Tc84tos0",
+        "timecode": "00:09:00"
       }
     ],
     "relatedPageIds": [
@@ -583,7 +605,7 @@
       "en": "Updated October 31, 2026"
     },
     "intro": {
-      "en": "Understand the three cash upgrades shown in recorded gameplay before you choose your next purchase."
+      "en": "Compare the lawn’s three cash upgrades with the lobby’s permanent gem upgrades, then confirm what changed after a purchase."
     },
     "quickAnswer": {
       "title": {
@@ -620,7 +642,7 @@
       {
         "id": "choose",
         "title": {
-          "en": "Pick an upgrade by the interruption"
+          "en": "Choose between job and permanent upgrades"
         },
         "paragraphs": [
           {
@@ -628,7 +650,16 @@
           },
           {
             "en": "This is a practical decision rule derived from the visible effects. It does not establish a mathematically optimal purchase order. Check one improvement at a time so you can see whether it solves your current problem."
+          },
+          {
+            "en": "Back in the lobby, the UPGRADES building opens a separate PERMANENT UPGRADES panel with gem buttons. Its four cards are Cash Multi (cash from every job), Bag Size (carrying space on every job), Cut Power (blades with every cut) and Gem Bonus (gems from every job). Read the job-only warning before comparing this panel with the three cash upgrades."
+          },
+          {
+            "en": "The reviewed permanent panel offers Cash Multi from x1 to x1.12 for 60 gems and Bag Size from x1 to x1.12 for 45 gems. Cut Power shows x1.15 to x1.3 for 110 gems; Gem Bonus shows x1 to x1.06 for 80. These are recorded levels and prices, not a current universal price ladder. Choose the effect your next jobs need and read the current card before spending."
           }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-530"
         ]
       },
       {
@@ -645,7 +676,13 @@
           },
           {
             "en": "Before heading home, remember the recorded job-only warning. This guide does not promise that Quick Snips, Deep Pockets or Fast Feet levels will carry into the next job."
+          },
+          {
+            "en": "For a permanent purchase, check the filled level dots, the left-hand current multiplier and the gem balance together. In the reviewed sequence, Cash Multi and Bag Size each advance from x1 to x1.12; their next values become x1.24 and their next prices become 120 and 90 gems. The balance changes from 187 to 82, matching the two shown purchase costs of 60 and 45. The screenshot confirms panel changes, without measuring actual cash earned on a later job."
           }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-535"
         ]
       }
     ],
@@ -700,6 +737,36 @@
         "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=360s",
         "videoId": "F93rMuTkmX4",
         "timecode": "00:06:00"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-530",
+        "src": "/images/video-sLDI9mzVYQI-530.webp",
+        "alt": {
+          "en": "Permanent gem upgrades for cash, bag size, cut power and gem rewards"
+        },
+        "caption": {
+          "en": "Permanent gem upgrades for cash, bag size, cut power and gem rewards. Recorded at 00:08:50."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=530s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:08:50"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-535",
+        "src": "/images/video-sLDI9mzVYQI-535.webp",
+        "alt": {
+          "en": "Permanent upgrade values after Cash Multi and Bag Size purchases"
+        },
+        "caption": {
+          "en": "Permanent upgrade values after Cash Multi and Bag Size purchases. Recorded at 00:08:55."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=535s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:08:55"
       }
     ],
     "relatedPageIds": [
@@ -758,10 +825,13 @@
           },
           {
             "en": "Clear a connected area you can search again instead of relying on a claimed universal coordinate. The footage reviewed for this guide does not establish a fixed phone spawn location or a trigger that guarantees the phone appears at a particular timer value."
+          },
+          {
+            "en": "Watch for the orange “It’s ringing!” objective message. Its text says the phone rings every now and then. In the newer recording it appears while the lawn bar reads 3%, so that message does not require a fully cleared yard in that run. Use the recurring cue to guide the search; this frame does not reveal a fixed spawn point or prove how the keys objective works."
           }
         ],
         "imageIds": [
-          "shot-F93rMuTkmX4-300"
+          "shot-826Tc84tos0-335"
         ]
       },
       {
@@ -851,21 +921,6 @@
     },
     "images": [
       {
-        "id": "shot-F93rMuTkmX4-300",
-        "src": "/images/video-F93rMuTkmX4-300.webp",
-        "alt": {
-          "en": "Phone search objective with a ringing cue"
-        },
-        "caption": {
-          "en": "Phone search objective with a ringing cue. Recorded at 00:05:00."
-        },
-        "ratio": "video",
-        "sourceId": "video-F93rMuTkmX4",
-        "sourceUrl": "https://www.youtube.com/watch?v=F93rMuTkmX4&t=300s",
-        "videoId": "F93rMuTkmX4",
-        "timecode": "00:05:00"
-      },
-      {
         "id": "shot-sLDI9mzVYQI-140",
         "src": "/images/video-sLDI9mzVYQI-140.webp",
         "alt": {
@@ -894,6 +949,21 @@
         "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=500s",
         "videoId": "sLDI9mzVYQI",
         "timecode": "00:08:20"
+      },
+      {
+        "id": "shot-826Tc84tos0-335",
+        "src": "/images/video-826Tc84tos0-335.webp",
+        "alt": {
+          "en": "Ringing objective displayed with the lawn progress at 3 percent"
+        },
+        "caption": {
+          "en": "Ringing objective displayed with the lawn progress at 3 percent. Recorded at 00:05:35."
+        },
+        "ratio": "video",
+        "sourceId": "video-826Tc84tos0",
+        "sourceUrl": "https://www.youtube.com/watch?v=826Tc84tos0&t=335s",
+        "videoId": "826Tc84tos0",
+        "timecode": "00:05:35"
       }
     ],
     "relatedPageIds": [
@@ -996,11 +1066,17 @@
         },
         "paragraphs": [
           {
-            "en": "The reviewed lobby includes a CLASSES sign, and gems have their own counter. A complete verified class list, class costs and current gem-shop effects are still missing."
+            "en": "Gem spending is visible in both the lobby’s permanent upgrades and CLASSES screens. For repeat-job effects, compare Cash Multi, Bag Size, Cut Power and Gem Bonus in the upgrades guide. Their gem buttons are separate from the cash prices on the lawn’s job-only upgrades."
           },
           {
-            "en": "Keep enough gems unspent while you read the actual option descriptions. This guide does not name a best class or claim an upgrade requires gems without a matching source. Cash purchases for tools, bags and the three observed upgrades are covered separately."
+            "en": "At CLASSES, select a class to read its perk, equipped state and XP requirement. The reviewed Gardener is equipped at level 1 and its perk says hand tools cut 25% more. The screen shows 2/50 XP and says to wear a class on jobs to level it. Its XP note lists +20 XP for a win and +2 for a drop-off. Treat these as recorded class details, not a verified complete current class list."
+          },
+          {
+            "en": "Before spending gems, check whether you can use the perk with your current equipment. The Gardener text specifically names hand tools; this frame does not prove that it boosts every mower. Compare the current price and locked-level tabs in your server. A class tier list and the full price ladder remain unverified."
           }
+        ],
+        "imageIds": [
+          "shot-sLDI9mzVYQI-545"
         ]
       }
     ],
@@ -1070,6 +1146,21 @@
         "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=600s",
         "videoId": "sLDI9mzVYQI",
         "timecode": "00:10:00"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-545",
+        "src": "/images/video-sLDI9mzVYQI-545.webp",
+        "alt": {
+          "en": "Gardener class details with hand tool perk and XP progress"
+        },
+        "caption": {
+          "en": "Gardener class details with hand tool perk and XP progress. Recorded at 00:09:05."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=545s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:09:05"
       }
     ],
     "relatedPageIds": [
@@ -1172,14 +1263,18 @@
         },
         "paragraphs": [
           {
-            "en": "The reviewed late-game lobby shows a CODES label along the top and a FREE CODES sign near the reward area. Use the current game’s code control to open its entry interface, then enter one full code and check the response."
+            "en": "In the lobby, locate the top CODES control or the FREE CODES board near the reward area. The board shows an E interaction prompt in the recording. Open the Codes window before typing a code."
           },
           {
-            "en": "The reviewed frames do not reveal the open code textbox or the name of its submit button. Follow the live interface for that final control. We avoid claiming a Settings, bird or Gift button that has not been verified for this game."
+            "en": "Select the text field below “Type a code for free gems!”, paste one complete code and press the green REDEEM button. The screenshot contains an incidental single letter from the recording; replace any existing text with the full code you intend to submit."
+          },
+          {
+            "en": "The old dialog advertises a next code at 300 likes. That milestone belongs to the recording. Today’s developer description lists 500LIKES and 200LIKES and announces the next code at 1000LIKES. Opening the dialog is verified from footage; successful redemption of today’s codes has not been tested."
           }
         ],
         "imageIds": [
-          "shot-sLDI9mzVYQI-540"
+          "shot-sLDI9mzVYQI-540",
+          "shot-sLDI9mzVYQI-550"
         ]
       },
       {
@@ -1262,6 +1357,21 @@
         "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=540s",
         "videoId": "sLDI9mzVYQI",
         "timecode": "00:09:00"
+      },
+      {
+        "id": "shot-sLDI9mzVYQI-550",
+        "src": "/images/video-sLDI9mzVYQI-550.webp",
+        "alt": {
+          "en": "Open Codes window with text field and green Redeem button"
+        },
+        "caption": {
+          "en": "Open Codes window with text field and green Redeem button. Recorded at 00:09:10."
+        },
+        "ratio": "video",
+        "sourceId": "video-sLDI9mzVYQI",
+        "sourceUrl": "https://www.youtube.com/watch?v=sLDI9mzVYQI&t=550s",
+        "videoId": "sLDI9mzVYQI",
+        "timecode": "00:09:10"
       }
     ],
     "relatedPageIds": [
