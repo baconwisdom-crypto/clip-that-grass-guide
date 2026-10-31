@@ -76,7 +76,8 @@ export const siteConfig: SiteConfig = {
     showImageText: false
   },
   analytics: {
-    enabled: false
+    enabled: true,
+    measurementId: "G-QQEY7JJETM"
   },
   ads: {
     enabled: false,
