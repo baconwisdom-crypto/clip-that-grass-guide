@@ -7,7 +7,7 @@ export const siteConfig: SiteConfig = {
     en: "Clip That Grass codes, first-session walkthrough, tools and bags, upgrades, gems and Grandma’s phone guides."
   },
   siteUrl: "https://www.clipthatgrass.wiki",
-  searchVisibility: "preview",
+  searchVisibility: "public",
   architecture: {
     enabled: true,
     templates: [
