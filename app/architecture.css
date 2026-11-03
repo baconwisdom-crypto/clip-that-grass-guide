@@ -226,3 +226,14 @@ body { background-color: var(--site-background); }
 .arch-page .ui-prose--lead { color: var(--site-text-strong); }
 
 .arch-landing-lead:not(:has(.arch-brand-image)) { grid-template-columns: minmax(0,1fr); }
+
+/* Verified domain units: dimensions include labels separately from provider frames. */
+.ad-slot[data-ad-state="enabled"] { border: 0; border-radius: 0; background: transparent; padding: 0; gap: 5px; margin-block: 24px; }
+.ad-slot[data-ad-state="enabled"] iframe { max-width: none; flex-shrink: 0; }
+.ad-slot[data-ad-state="enabled"] .ad-slot__label { line-height: 12px; }
+.ad-live--native { width: 100%; min-height: 0; }
+.ad-native-content { width: 100%; overflow: hidden; }
+.ad-live--300x250 { width: 300px; height: auto; aspect-ratio: auto; }
+.ad-live--728x90 { width: 728px; min-height: 107px; }
+.ad-live--320x50 { width: 320px; min-height: 67px; margin-left: calc(50% - 160px); }
+.ad-slot--vertical-rail[data-ad-state="enabled"] { width: 160px; max-width: 160px; height: 617px; margin-block: 0; }

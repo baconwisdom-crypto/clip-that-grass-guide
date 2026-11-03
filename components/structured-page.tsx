@@ -7,7 +7,7 @@ import { SectionView, TableView, MediaFigure } from "./page-sections";
 import { SourceList } from "./source-list";
 import { SupportingGuidance } from "./supporting-guidance";
 import { HeroMedia } from "./hero-media";
-import { AdSlot } from "./ad-slot";
+import { AdSlot, InlineSquareAd } from "./ad-slot";
 import { siteConfig } from "@/config/site";
 import { structure, destinationHref } from "@/lib/architecture";
 import { pageById, pageIsAvailable, text } from "@/lib/content";
@@ -94,6 +94,7 @@ function EndMatter(props: Props) {
   const placed = new Set(page.sections.flatMap(section => section.imageIds ?? []));
   const unplaced = page.images.filter(image => !placed.has(image.id ?? image.src) && !(page.pageType === "Home" && layout.template === "landing" && image.src === siteConfig.heroImage?.src));
   return <>
+    {page.pageType !== "Source" && <InlineSquareAd />}
     <Support {...props} />
     {unplaced.length > 0 && <div className="arch-unplaced-media">{unplaced.map(image => <MediaFigure key={image.id ?? image.src} image={image} locale={locale} />)}</div>}
     {page.faq?.length ? <section className="arch-faq" aria-labelledby="faq"><h2 id="faq">{label("faq", locale)}</h2>{page.faq.map((item, index) => <details key={index}><summary>{text(item.question, locale)}</summary><p>{text(item.answer, locale)}</p></details>)}</section> : null}

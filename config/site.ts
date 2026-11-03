@@ -80,18 +80,11 @@ export const siteConfig: SiteConfig = {
     measurementId: "G-QQEY7JJETM"
   },
   ads: {
-    enabled: false,
+    enabled: true,
+    provider: "Adsterra",
     previewPlaceholders: false,
-    desktopChrome: {
-      enabled: false
-    },
-    placements: {
-      "top-sticky": false,
-      "left-sticky": false,
-      "home-banner": false,
-      "article-banner": false,
-      "sidebar-square": false
-    }
+    desktopChrome: { enabled: true },
+    placements: { "top-sticky": false, "left-sticky": true, "home-banner": true, "article-banner": true, "sidebar-square": true },
   },
   evidenceLabels: [
     {
